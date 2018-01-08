@@ -1,0 +1,122 @@
+		
+/*
+	classes da página home
+*/		
+		.slider-principal{
+			position: relative;
+			margin:auto;
+			max-width: 1070px;
+			height: 420px;
+			margin-bottom: 5%;
+		}
+		.image-show{
+			display: inline-block;
+		}
+		.image-hidden{
+			display: none;
+		}
+		.previousLink, .nextLink{
+			float: left;
+		}
+		
+		.idpresentes{
+	 		position: relative;
+	 		color: white;
+	 		font-family: arial;
+	 		font-size: 18px;
+	 		top:20px;
+	 		left: 80px;
+	 	}
+	 	.preco1{
+	 		position: relative;
+	 		color: white;
+	 		top: 90px;
+	 	}
+	 	.acervo-pack{
+	 		position: relative;
+	 		top: 250px;
+	 	}
+	 	.acervo-font{
+	 		color: #686c6d;
+	 	}
+	 	.acervo{
+	 		position: relative;
+	 		border: 1px solid black;
+	 		top: 50px;
+	 		margin:auto;
+	 		height: 245px;
+	 		max-width: 1450px;
+	 	}
+	 	.ideias-presentes{
+	 		position: relative;
+	 		background-color: #646869;
+	 		height: 390px;
+	 		max-width: 100%;
+	 		top: 10px;
+	 	}
+	 	.box{
+	 		position: relative;
+	 		text-align: center;
+	 	}
+	 	.imagem-1{
+	 		position: relative;
+	 		margin: auto;
+	 		padding: 10px;
+	 		top: 70px;
+	 		background-color: white;
+	 		width: 280px;
+	 		height: 235px;
+	 		box-shadow: 5px 10px 18px #47494a;	
+	 	}
+	 	.ft_footer{
+	 		position: relative;
+	 		top: 40px;
+	 	}
+	 	.kit-de-quadros{
+	 		position: relative;
+	 		background-color: #646869;
+	 		height: 390px;
+	 		top: 700px;
+	 		max-width: 100%;
+	 	}
+	 	.imagem-kit-de-quadros{
+	 		position: relative;
+	 		left: 50%;
+	 		bottom: 50%;
+	 		max-width: 722px;
+	 		height: 480px;
+	 		background-color: white;
+	 		box-shadow: 5px 10px 18px #47494a;
+	 	}
+	 	.corporativo{
+	 		position: relative;
+	 		top: 900px;
+	 		height: 520px;
+	 	}
+	 	.img-corporativo{
+	 		position: relative;
+	 		margin:auto;
+	 	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
