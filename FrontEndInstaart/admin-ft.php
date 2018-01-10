@@ -9,6 +9,9 @@
  * Licence: GPL2
  */
 
+require "custom-footer-ft.php";
+require "slider.php";
+
 function ft_referal_init()
 {
 	if(is_page('home')){	
